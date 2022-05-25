@@ -2,7 +2,7 @@
 
  
 <p align="center">
-  <img height="400" src="./blob/master/banner.png" />
+  <img height="400" src="./banner.png" />
 </p>
                                                                      
 
